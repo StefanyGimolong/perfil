@@ -10,5 +10,6 @@ Meu Nome é Stefany Martins Gimolong
 
  stefany.gimolong@escola.pr.gov.br
 
-![](https://tenor.com/pt-BR/view/snoopy-woodstock-snoopy-and-woodstock-peanuts-hooray-gif-18241904693095165005)
+![](<img src="https://media1.tenor.com/m/xfCdetsEDxUAAAAd/snoopy-woodstock.gif" alt="snoopy and woodstock are sitting on a red box"/>![image](https://github.com/user-attachments/assets/ca1fe3cd-c27d-4fbf-b50e-eeddb6d84ab1)
+
 
